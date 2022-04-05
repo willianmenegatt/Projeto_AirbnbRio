@@ -1,6 +1,6 @@
 # Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas comuns 
 
-![alt text](path/to/file)
+![alt text](https://github.com/willianmenegatt/Projeto_AirbnbRio/blob/main/airbnb.jpg?raw=true)
 
 O Airbnb é uma plataforma para alugar acomodaões por temporadas e promover experências únicas. Você pode ser um anfitrião ou um viajante em qualquer lugar do mundo.
 
