@@ -1,5 +1,9 @@
 # Projeto Airbnb Rio - Ferramenta de Previsão de Preço de Imóvel para pessoas comuns 
 
+div align="center"
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+/div
+
 O Airbnb é uma plataforma para alugar acomodaões por temporadas e promover experências únicas. Você pode ser um anfitrião ou um viajante em qualquer lugar do mundo.
 
 No Airbnb, qualquer pessoa que tenha um quarto ou um imóvel de qualquer tipo (apartamento, casa, chalé, pousada, etc.) pode ofertar o seu imóvel para ser alugado por diária. Você cria o seu perfil de host (pessoa que disponibiliza um imóvel para aluguel por diária) e cria o anúncio do seu imóvel.
